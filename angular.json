@@ -138,5 +138,8 @@
       }
     }
   },
-  "defaultProject": "maskCpfCnpj"
+  "defaultProject": "maskCpfCnpj",
+  "cli": {
+    "analytics": "3d916c09-6529-4cba-b0dc-c0448f0a76a4"
+  }
 }
